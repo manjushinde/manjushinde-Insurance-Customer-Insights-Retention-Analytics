@@ -113,7 +113,3 @@ Data was cleaned and transformed in **SQL**:
 4. Use dashboard filters to explore insights by **state, insurance type, and payment frequency**.
 
 ---
-
-## 📜 License
-This project is for educational purposes only.
-
